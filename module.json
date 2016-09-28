@@ -1,0 +1,9 @@
+{
+	"name": "Tests and demos",
+	"slug": "tests-and-demos",
+	"namespace": "TestsAndDemos",
+	"version": "1.0",
+	"author": "Sebastien Routier",
+	"license": "GPL-3.0",
+	"description": "Provides some test and demos for the ACLs, Flash and Menus."
+}
